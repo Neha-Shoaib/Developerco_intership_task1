@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import Image from 'next/image';
 
 export default function DealsAndOffers() {
   const calculateTimeLeft = () => {
@@ -43,50 +44,61 @@ export default function DealsAndOffers() {
   ];
 
   const pad = (num) => String(num).padStart(2, '0');
-  return (
-    <div className="max-w-7xl mx-auto px-4 py-8 bg-gray-100 ">
-      <div className="border-2 border-gray-300 rounded-lg overflow-hidden mx-auto w-[1100px] h-[240px]">
-        <div className="flex">
 
-          <div className="w-72 min-w-[18rem] border-r border-gray-100 bg-white p-5 flex flex-col gap-3 ">
-            <div className='flex flex-col'>
-            <h2 className="text-2xl font-bold text-gray-800">Deals and offers</h2>
-          <p className="text-gray-600 ">Hygiene equipments</p>
-</div>
-            <div className="grid grid-cols-4 gap-3 text-center">
+  return (
+    // Max-width ensures it doesn't stretch infinitely on ultrawide monitors
+    <div className="w-full max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8 bg-gray-100">
+      <div className="border border-gray-200 rounded-lg overflow-hidden bg-white shadow-sm">
+        <div className="flex flex-col sm:flex-row">
+
+          {/* Timer Section - Fixed width on desktop for stability */}
+          <div className="w-full sm:w-64 lg:w-72 border-b sm:border-b-0 sm:border-r border-gray-200 p-4 lg:p-6 flex flex-col justify-between">
+            <div>
+              <h2 className="text-xl lg:text-2xl font-bold text-gray-800 leading-tight">Deals and offers</h2>
+              <p className="text-sm lg:text-base text-gray-500 mt-1">Hygiene equipments</p>
+            </div>
+            
+            <div className="flex sm:grid sm:grid-cols-4 gap-2 lg:gap-3 text-center mt-6">
               {[
                 { value: timeLeft.days, label: 'Days' },
                 { value: timeLeft.hours, label: 'Hour' },
                 { value: timeLeft.minutes, label: 'Min' },
                 { value: timeLeft.seconds, label: 'Sec' },
               ].map((item, i) => (
-                <div key={i} className="bg-gray-500 rounded-lg p-0.5 min-w-[40px] h-[50px]">
-                  <div className="text-1xl font-bold text-white">
+                <div key={i} className="bg-[#464646] rounded-md p-1 lg:p-2 min-w-[50px] lg:min-w-[60px]">
+                  <div className="text-lg lg:text-xl font-bold text-white">
                     {pad(item.value)}
                   </div>
-                  <div className="text-xs text-white mt-1">{item.label}</div>
+                  <div className="text-[10px] lg:text-xs text-white uppercase opacity-80">{item.label}</div>
                 </div>
               ))}
             </div>
           </div>
 
-          <div className="flex-1 grid grid-cols-5 divide-x divide-blue-200 bg-white">
+          {/* Products Grid - Adapts from 2 to 5 columns */}
+          <div className="flex-1 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 divide-x divide-y md:divide-y-0 divide-gray-200">
             {products.map((product, index) => (
               <div
                 key={index}
-                className="flex flex-col items-center justify-between p-6 hover:bg-gray-50 transition-colors group"
+                className="flex flex-col items-center p-4 lg:p-8 hover:shadow-xl transition-all duration-300 group cursor-pointer bg-white"
               >
-                <div className="relative w-full aspect-square mb-4">
-                 <img src={product.image} alt="product" className='w-[130px] h-[120px] object-contain' />
+                <div className="relative w-full aspect-square mb-4 transition-transform duration-300 group-hover:scale-110">
+                  <Image 
+                    src={product.image} 
+                    alt={product.name}
+                    fill
+                    className="object-contain p-2"
+                    sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 20vw"
+                  />
                 </div>
 
-                <div className="text-center">
-                  <p className="text-sm text-gray-700 mb-2 group-hover:text-blue-600 transition-colors">
+                <div className="text-center w-full">
+                  <p className="text-sm lg:text-base text-gray-800 mb-2 font-medium">
                     {product.name}
                   </p>
-                  <div className="inline-block bg-red-100 text-red-600 font-medium px-3 py-1 rounded-full text-sm">
+                  <span className="inline-flex items-center justify-center bg-red-50 text-red-600 font-semibold px-3 py-1 rounded-full text-xs lg:text-sm">
                     {product.discount}
-                  </div>
+                  </span>
                 </div>
               </div>
             ))}

@@ -3,16 +3,16 @@ import Link from 'next/link';
 
 export default function RecommendedItems() {
   const products = [
-    { id: 1, name: "T-shirts with multiple colors, for men", price: "$10.30", img: "/images/clothes/cloth1.png", desc: "T-shirts with multiple colors, for men" },
-    { id: 2, name: "Jeans shorts for men blue color", price: "$10.30", img: "/images/clothes/cloth3.jpg", desc: "Jeans shorts for men blue color" },
-    { id: 3, name: "Brown winter coat medium size", price: "$12.50", img: "/images/clothes/cloth7.png", desc: "Brown winter coat medium size" },
-    { id: 4, name: "Jeans bag for travel for men", price: "$34.00", img: "/images/clothes/cloth6.png", desc: "Jeans bag for travel for men" },
-    { id: 5, name: "Leather wallet", price: "$99.00", img: "/images/clothes/cloth5.png", desc: "Leather wallet" },
-    { id: 6, name: "Canon camera black, 100x zoom", price: "$9.99", img: "/images/interior/white headphone.png", desc: "Canon camera zoom black, 100x zoom" },
-    { id: 7, name: "Headset for gaming with mic", price: "$8.99", img: "/images/clothes/cloth4.png", desc: "Headset for gaming with mic" },
-    { id: 8, name: "Smartwatch silver color modern", price: "$10.30", img: "/images/interior/pot.png", desc: "Smartwatch silver color modern" },
-    { id: 9, name: "Blue wallet for men leather", price: "$10.30", img: "/images/interior/black kettle.png", desc: "Blue wallet for men leather" },
-    { id: 10, name: "Jeans bag for travel for men", price: "$80.95", img: "/images/clothes/cloth5.png", desc: "Jeans bag for travel for men" },
+    { id: 1, name: "T-shirts with multiple colors, for men", price: "$10.30", img: "/assets/images/clothes/cloth1.png", desc: "T-shirts with multiple colors, for men" },
+    { id: 2, name: "Jeans shorts for men blue color", price: "$10.30", img: "/assets/images/clothes/cloth3.jpg", desc: "Jeans shorts for men blue color" },
+    { id: 3, name: "Brown winter coat medium size", price: "$12.50", img: "/assets/images/clothes/cloth7.png", desc: "Brown winter coat medium size" },
+    { id: 4, name: "Jeans bag for travel for men", price: "$34.00", img: "/assets/images/clothes/cloth6.png", desc: "Jeans bag for travel for men" },
+    { id: 5, name: "Leather wallet", price: "$99.00", img: "/assets/images/clothes/cloth5.png", desc: "Leather wallet" },
+    { id: 6, name: "Canon camera black, 100x zoom", price: "$9.99", img: "/assets/images/interior/white headphone.png", desc: "Canon camera zoom black, 100x zoom" },
+    { id: 7, name: "Headset for gaming with mic", price: "$8.99", img: "/assets/images/clothes/cloth4.png", desc: "Headset for gaming with mic" },
+    { id: 8, name: "Smartwatch silver color modern", price: "$10.30", img: "/assets/images/interior/pot.png", desc: "Smartwatch silver color modern" },
+    { id: 9, name: "Blue wallet for men leather", price: "$10.30", img: "/assets/images/interior/black kettle.png", desc: "Blue wallet for men leather" },
+    { id: 10, name: "Jeans bag for travel for men", price: "$80.95", img: "/assets/images/clothes/cloth5.png", desc: "Jeans bag for travel for men" },
   ];
 
   return (

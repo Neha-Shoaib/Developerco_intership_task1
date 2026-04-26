@@ -1,4 +1,5 @@
 import Image from "next/image";
+
 export default function ExtraServices() {
   const services = [
     {
@@ -23,43 +24,59 @@ export default function ExtraServices() {
     },
   ];
 
+  const regions = [
+    { flag: "/assets/icons/flags/UAE.png", name: "Arabic Emirates", domain: "shopname.ae" },
+    { flag: "/assets/icons/flags/AU.png", name: "Australia", domain: "shopname.ae" },
+    { flag: "/assets/icons/flags/AM.png", name: "United States", domain: "shopname.ae" },
+    { flag: "/assets/icons/flags/R.png", name: "Russia", domain: "shopname.ru" },
+    { flag: "/assets/icons/flags/ITALY.png", name: "Italy", domain: "shopname.it" },
+    { flag: "/assets/icons/flags/Br.png", name: "Denmark", domain: "denmark.com.dk" },
+    { flag: "/assets/icons/flags/FR.png", name: "France", domain: "shopname.fr" },
+    { flag: "/assets/icons/flags/UAE.png", name: "Arabic Emirates", domain: "shopname.ae" },
+    { flag: "/assets/icons/flags/china.png", name: "China", domain: "shopname.ae" },
+    { flag: "/assets/icons/flags/ENG.png", name: "Great Britain", domain: "shopname.co.uk" },
+  ];
+
   return (
-    <div className="max-w-[1440px] mx-auto px-20 py-10 md:py-12 lg:py-5 bg-gray-100">
-      <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-8 md:mb-10 lg:mb-12 text-black">
+    <div className="w-full max-w-[1536px] mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12 bg-gray-100">
+      <h2 className="text-2xl sm:text-3xl xl:text-4xl font-bold mb-8 xl:mb-10 text-black">
         Our extra services
       </h2>
 
-      {/* Services */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 md:gap-6 lg:gap-8">
+      {/* Services Grid */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 xl:gap-8">
         {services.map((service, index) => (
           <div
             key={index}
-            className="relative  overflow-hidden border border-gray-200 shadow-sm hover:shadow-md transition-shadow w-[280px] h-[200px] mx-auto"
+            className="relative overflow-hidden border border-gray-200 shadow-sm hover:shadow-xl transition-all duration-300 rounded-lg bg-white group cursor-pointer"
           >
-            {/* Image  */}
-            <div className="h-[130px] w-full">
-              <img
+            {/* Image Container */}
+            <div className="relative h-32 md:h-36 xl:h-44 w-full overflow-hidden">
+              <Image
                 src={service.image}
                 alt={service.title}
-                className="w-full h-full object-cover"
+                fill
+                className="object-cover transition-transform duration-500 group-hover:scale-110"
               />
-              <div className="absolute  bg-white" />
+              <div className="absolute inset-0 bg-black/5 group-hover:bg-transparent transition-colors" />
             </div>
 
-            <div className="absolute top-[130px] right-4 -translate-y-1/2 z-10">
-              <div className="w-12 h-12 md:w-14 md:h-14 bg-blue-100 rounded-full flex items-center justify-center shadow-md border border-white">
+            {/* Icon badge */}
+            <div className="absolute right-6 top-[110px] md:top-[125px] xl:top-[155px] z-20">
+              <div className="w-12 h-12 lg:w-14 lg:h-14 bg-[#D1E7FF] rounded-full flex items-center justify-center shadow-lg border-4 border-white transition-transform group-hover:rotate-12">
                 <Image
                   src={service.icon}
-                  width={20}
-                  height={20}
-                  alt="service icons"
-                  className="text-2xl md:text-3xl"
+                  width={24}
+                  height={24}
+                  alt="service icon"
+                  className="w-5 h-5 lg:w-6 lg:h-6"
                 />
               </div>
             </div>
 
-            <div className="h-[70px] bg-white flex flex-col items-center justify-center px-4 ">
-              <p className="text-base font-medium text-gray-800 pr-20">
+            {/* Text content */}
+            <div className="p-5 lg:p-6 pt-8">
+              <p className="text-base lg:text-lg font-semibold text-gray-900 leading-snug group-hover:text-blue-600 transition-colors">
                 {service.title}
               </p>
             </div>
@@ -67,77 +84,32 @@ export default function ExtraServices() {
         ))}
       </div>
 
-      <div className="md:mt-20 lg:my-10">
-        <h2 className="text-2xl md:text-3xl font-semibold mb-8 md:mb-10 text-gray-900">
+      {/* Suppliers by region */}
+      <div className="mt-16 xl:mt-24">
+        <h2 className="text-2xl sm:text-3xl font-bold mb-8 lg:mb-10 text-gray-900">
           Suppliers by region
         </h2>
 
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-6 md:gap-8">
-          {[
-            {
-              flag: "/assets/icons/flags/UAE.png",
-              name: "Arabic Emirates",
-              domain: "shopname.ae",
-            },
-            {
-              flag: "/assets/icons/flags/AU.png",
-              name: "Australia",
-              domain: "shopname.ae",
-            },
-            {
-              flag: "/assets/icons/flags/AM.png",
-              name: "United States",
-              domain: "shopname.ae",
-            },
-            {
-              flag: "/assets/icons/flags/R.png",
-              name: "Russia",
-              domain: "shopname.ru",
-            },
-            {
-              flag: "/assets/icons/flags/ITALY.png",
-              name: "Italy",
-              domain: "shopname.it",
-            },
-            {
-              flag: "/assets/icons/flags/Br.png",
-              name: "Denmark",
-              domain: "denmark.com.dk",
-            },
-            {
-              flag: "/assets/icons/flags/FR.png",
-              name: "France",
-              domain: "shopname.fr",
-            },
-            {
-              flag: "/assets/icons/flags/UAE.png",
-              name: "Arabic Emirates",
-              domain: "shopname.ae",
-            },
-            {
-              flag: "/assets/icons/flags/china.png",
-              name: "China",
-              domain: "shopname.ae",
-            },
-            {
-              flag: "/assets/icons/flags/ENG.png",
-              name: "Great Britain",
-              domain: "shopname.co.uk",
-            },
-          ].map((item, i) => (
-            <div key={i} className="flex flex-row gap-2 items-center space-x-2">
-              <Image
-                src={item.flag}
-                alt="flags"
-                width={10}
-                height={5}
-                className="w-8 h-6 mb-2"
-              />
-              <div>
-                <p className="text-sm md:text-lg font-medium text-black">
+        {/* Region Grid - Scales to 6 columns on ultra-wide */}
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 xl:gap-6">
+          {regions.map((item, i) => (
+            <div 
+              key={i} 
+              className="flex items-center gap-3 p-3 xl:p-4 bg-white rounded-lg border border-transparent hover:border-blue-200 hover:shadow-md transition-all group cursor-pointer"
+            >
+              <div className="relative w-8 h-6 flex-shrink-0 shadow-sm border border-gray-100">
+                <Image
+                  src={item.flag}
+                  alt={item.name}
+                  fill
+                  className="object-cover"
+                />
+              </div>
+              <div className="min-w-0 flex-1">
+                <p className="text-sm font-medium text-gray-800 truncate group-hover:text-blue-700">
                   {item.name}
                 </p>
-                <p className="text-xs md:text-sm text-gray-400">
+                <p className="text-xs text-gray-400 truncate">
                   {item.domain}
                 </p>
               </div>

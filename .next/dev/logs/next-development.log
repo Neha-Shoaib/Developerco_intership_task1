@@ -1,0 +1,1187 @@
+[00:00:01.083] Server  LOG     ✓ Ready in 755ms
+[00:00:08.773] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:14.201] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/icons/message.png" "received" null
+[00:00:14.205] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/icons/cart.png" "received" null
+[00:00:14.207] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/icons/profile.png" "received" null
+[00:00:14.226] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/icons/heart.png" "received" null
+[00:00:14.228] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/logo-symbol.png" "received" null
+[00:03:21.365] Server  LOG     ✓ Compiled in 171ms
+[00:03:49.854] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/logo-symbol.png" "received" null
+[00:03:49.856] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/icons/profile.png" "received" null
+[00:03:49.857] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/icons/message.png" "received" null
+[00:03:49.883] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/icons/heart.png" "received" null
+[00:03:49.884] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/icons/cart.png" "received" null
+[00:05:42.803] Server  LOG     ✓ Compiled in 136ms
+[00:06:10.046] Server  LOG     ✓ Compiled in 28ms
+[00:06:12.754] Server  LOG     ✓ Compiled in 27ms
+[00:06:20.363] Server  LOG     ✓ Compiled in 30ms
+[00:06:22.020] Server  LOG     ✓ Compiled in 25ms
+[00:06:23.492] Server  LOG     ✓ Compiled in 26ms
+[00:06:34.400] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:06:34.402] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:06:34.403] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:06:34.405] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:06:34.432] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:06:37.854] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:06:37.855] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:06:37.856] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:06:37.858] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:06:37.866] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:06:42.155] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:06:42.157] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:06:42.172] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:06:42.173] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:06:42.174] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:06:48.364] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:06:48.366] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:06:48.367] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:06:48.368] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:06:48.389] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:06:55.432] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:06:55.435] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:06:55.453] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:06:55.455] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:06:55.473] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:07:12.861] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:07:12.935] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:07:12.942] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:07:17.608] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:07:17.609] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:07:17.609] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:07:17.610] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:07:17.777] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:07:17.778] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:07:17.877] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:07:17.907] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:07:17.909] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:07:17.910] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:07:17.912] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:07:17.914] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:07:17.968] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:07:18.058] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:07:18.064] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:08:43.326] Server  LOG     ✓ Compiled in 49ms
+[00:08:55.289] Server  LOG     ✓ Compiled in 42ms
+[00:08:57.696] Server  LOG     ✓ Compiled in 27ms
+[00:09:06.469] Server  LOG     ✓ Compiled in 32ms
+[00:09:36.099] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:09:36.108] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:09:44.804] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:09:44.839] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:09:44.841] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:09:44.843] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:09:44.844] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:09:44.846] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:09:45.027] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:09:45.034] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:09:45.040] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:09:46.603] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:09:46.606] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:09:46.608] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:09:46.609] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:09:46.611] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:09:46.621] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:09:46.772] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:09:46.774] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:09:46.790] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:09:47.034] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:09:47.036] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:09:47.037] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:09:47.039] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:09:47.053] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:09:47.054] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:09:47.231] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:09:47.245] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:09:47.247] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:09:47.811] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:09:47.815] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:09:47.817] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:09:47.818] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:09:47.833] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:09:47.834] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:09:47.938] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:09:47.940] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:09:47.946] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:11:08.411] Server  LOG     ✓ Compiled in 101ms
+[00:12:44.035] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:12:44.037] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:12:44.039] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:12:44.053] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:12:44.054] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:12:44.064] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:12:44.211] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:12:44.214] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:12:44.221] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:12:50.674] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:12:50.697] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:12:50.698] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:12:50.699] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:12:50.701] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:12:50.708] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:12:50.873] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:12:50.881] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:12:50.891] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:12:54.667] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:12:54.670] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:12:54.672] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:12:54.674] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:12:54.685] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:12:54.686] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:12:54.848] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:12:54.855] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:12:54.865] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:13:13.583] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:13:13.584] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:13:13.586] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:13:13.602] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:13:13.603] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:13:13.613] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:13:13.770] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:13:13.808] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:13:13.811] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:13:15.473] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:13:15.476] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:13:15.478] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:13:15.479] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:13:15.498] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:13:15.499] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:13:15.652] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:13:15.666] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:13:15.667] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:13:20.504] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:13:20.505] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:13:20.507] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:13:20.509] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:13:20.523] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:13:20.524] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:13:20.700] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:13:20.702] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:13:20.710] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:13:24.564] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:13:24.566] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:13:24.568] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:13:24.569] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:13:24.571] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:13:24.582] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:13:24.779] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:13:24.781] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:13:24.789] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:13:26.181] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:13:26.183] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:13:26.184] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:13:26.186] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:13:26.196] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:13:26.198] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:13:26.349] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:13:26.352] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:13:26.359] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:13:29.013] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:13:29.014] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:13:29.016] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:13:29.019] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:13:29.034] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:13:29.036] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:13:29.220] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:13:29.230] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:13:29.241] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:13:33.553] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:13:33.554] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:13:33.556] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:13:33.559] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:13:33.561] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:13:33.571] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:13:33.752] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:13:33.754] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:13:33.761] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:13:48.298] Server  LOG     ✓ Compiled in 26ms
+[00:14:49.994] Server  LOG     ✓ Compiled in 143ms
+[00:15:02.363] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:15:02.365] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:15:02.367] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:15:02.368] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:15:02.370] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:15:02.386] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:15:02.616] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:15:02.617] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:15:02.619] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:15:14.263] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:15:14.292] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:15:14.294] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:15:14.296] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:15:14.297] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:15:14.309] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:15:14.464] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:15:14.480] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:15:14.485] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:15:18.435] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:15:18.437] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:15:18.438] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:15:18.440] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:15:18.441] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:15:18.450] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:15:18.583] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:15:18.585] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:15:18.592] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:15:19.748] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:15:19.751] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:15:19.753] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:15:19.755] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:15:19.769] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:15:19.771] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:15:19.938] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:15:19.939] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:15:19.947] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:15:23.312] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:15:23.313] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:15:23.314] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:15:23.315] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:15:23.333] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:15:23.335] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:15:23.518] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:15:23.520] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:15:23.525] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:15:29.046] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:15:29.047] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:15:29.048] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:15:29.048] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:15:29.049] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:15:29.059] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:15:29.138] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:15:29.288] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:15:29.346] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:15:29.347] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:15:29.375] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:15:29.537] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:15:29.598] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:15:29.599] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:15:29.616] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:17:43.753] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:17:43.755] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:17:43.808] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:17:43.809] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:17:43.810] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:17:43.812] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:17:44.115] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:17:44.116] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:17:44.118] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:17:44.119] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:17:44.137] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:17:44.138] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:17:44.315] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:17:44.316] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:17:44.326] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:17:46.249] Browser WARN    Image with src "/assets/images/services/sheild.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:46.249] Browser WARN    Image with src "/assets/images/services/arrow.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:46.801] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:17:46.804] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:17:46.806] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:17:46.807] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:17:46.828] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:17:46.830] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:17:46.990] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:17:46.991] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:17:46.998] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:17:49.330] Browser WARN    Image with src "/assets/icons/flags/AM.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:18:46.219] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:18:46.239] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:18:46.240] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:18:46.241] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:18:46.242] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:18:46.243] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:18:46.422] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:18:46.424] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:18:46.431] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:20:26.999] Server  LOG     ✓ Compiled in 50ms
+[00:20:44.464] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:20:44.466] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:20:44.484] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:20:44.485] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:20:44.486] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:20:44.493] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:20:44.677] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:20:44.680] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:20:44.687] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:21:35.513] Server  LOG     ✓ Compiled in 104ms
+[00:21:35.626] Browser ERROR   ./components/QueryForm.jsx:109:9
+Parsing ecmascript source code failed
+  107 |   );
+  108 | }
+> 109 |         </div>
+      |         ^
+  110 |       </div>
+  111 |     </div>
+  112 |   );
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/QueryForm.jsx
+    ./app/page.tsx
+[00:21:35.628] Browser ERROR   ./components/QueryForm.jsx:109:10
+Parsing ecmascript source code failed
+  107 |   );
+  108 | }
+> 109 |         </div>
+      |          ^^^^^
+  110 |       </div>
+  111 |     </div>
+  112 |   );
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./components/QueryForm.jsx
+    ./app/page.tsx
+[00:22:52.952] Browser ERROR   ./components/QueryForm.jsx:109:9
+Parsing ecmascript source code failed
+  107 |   );
+  108 | }
+> 109 |         </div>
+      |         ^
+  110 |       </div>
+  111 |     </div>
+  112 |   );
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/QueryForm.jsx
+    ./app/page.tsx
+[00:22:52.952] Browser ERROR   ./components/QueryForm.jsx:109:10
+Parsing ecmascript source code failed
+  107 |   );
+  108 | }
+> 109 |         </div>
+      |          ^^^^^
+  110 |       </div>
+  111 |     </div>
+  112 |   );
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./components/QueryForm.jsx
+    ./app/page.tsx
+[00:22:54.951] Browser ERROR   ./components/QueryForm.jsx:109:9
+Parsing ecmascript source code failed
+  107 |   );
+  108 | }
+> 109 |         </div>
+      |         ^
+  110 |       </div>
+  111 |     </div>
+  112 |   );
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/QueryForm.jsx
+    ./app/page.tsx
+[00:22:54.951] Browser ERROR   ./components/QueryForm.jsx:109:10
+Parsing ecmascript source code failed
+  107 |   );
+  108 | }
+> 109 |         </div>
+      |          ^^^^^
+  110 |       </div>
+  111 |     </div>
+  112 |   );
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./components/QueryForm.jsx
+    ./app/page.tsx
+[00:22:54.951] Browser ERROR   ./components/QueryForm.jsx:109:9
+Parsing ecmascript source code failed
+  107 |   );
+  108 | }
+> 109 |         </div>
+      |         ^
+  110 |       </div>
+  111 |     </div>
+  112 |   );
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/QueryForm.jsx
+    ./app/page.tsx
+[00:22:54.951] Browser ERROR   ./components/QueryForm.jsx:109:10
+Parsing ecmascript source code failed
+  107 |   );
+  108 | }
+> 109 |         </div>
+      |          ^^^^^
+  110 |       </div>
+  111 |     </div>
+  112 |   );
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./components/QueryForm.jsx
+    ./app/page.tsx
+[00:23:24.958] Browser ERROR   ./components/QueryForm.jsx:109:9
+Parsing ecmascript source code failed
+  107 |   );
+  108 | }
+> 109 |         </div>
+      |         ^
+  110 |       </div>
+  111 |     </div>
+  112 |   );
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/QueryForm.jsx
+    ./app/page.tsx
+[00:23:24.958] Browser ERROR   ./components/QueryForm.jsx:109:10
+Parsing ecmascript source code failed
+  107 |   );
+  108 | }
+> 109 |         </div>
+      |          ^^^^^
+  110 |       </div>
+  111 |     </div>
+  112 |   );
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./components/QueryForm.jsx
+    ./app/page.tsx
+[00:23:45.031] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:23:45.033] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:23:45.035] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:23:45.036] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:23:45.038] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:23:45.049] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:23:45.190] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:23:45.191] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:23:45.201] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:23:53.962] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:23:53.965] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:23:53.966] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:23:53.968] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:23:53.983] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:23:53.985] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:23:54.148] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:23:54.159] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:23:54.161] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:24:07.374] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:24:07.417] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:24:07.418] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:24:07.419] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:24:07.421] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:24:07.422] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:24:07.564] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:24:07.573] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:24:07.580] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:24:14.748] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:24:14.802] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:24:14.803] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:24:14.805] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:24:14.806] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:24:14.807] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:24:14.918] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:24:14.926] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:24:14.933] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:24:21.986] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:24:21.988] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:24:22.010] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:24:22.012] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:24:22.014] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:24:22.016] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:24:22.232] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:24:22.233] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:24:22.234] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:24:26.322] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:24:26.325] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:24:26.327] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:24:26.328] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:24:26.330] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:24:26.344] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:24:26.533] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:24:26.535] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:24:26.542] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:24:48.349] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:24:48.352] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:24:48.409] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:24:48.547] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:24:48.549] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:24:48.561] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:24:48.636] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:24:48.642] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:24:48.680] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:25:54.552] Server  LOG     ✓ Compiled in 59ms
+[00:25:54.959] Browser ERROR   ./components/ExtraServices.jsx:155:26
+Parsing ecmascript source code failed
+  153 | }
+  154 |                 alt="flags"
+> 155 |                 width={10}
+      |                          ^
+  156 |                 height={5}
+  157 |                 className="w-8 h-6 mb-2"
+  158 |               />
+
+Unexpected token `}`. Expected identifier
+
+Import trace:
+  Server Component:
+    ./components/ExtraServices.jsx
+    ./app/page.tsx
+[00:26:43.874] Server  LOG     ✓ Compiled in 30ms
+[00:26:48.913] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:26:48.928] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:26:49.015] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:26:49.017] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:26:49.022] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:26:49.024] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:26:49.262] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:26:49.269] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:26:49.276] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:26:50.207] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:26:50.209] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:26:50.210] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:26:50.212] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:26:50.228] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:26:50.230] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:26:50.394] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:26:50.408] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:26:50.408] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:26:50.713] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:26:50.714] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:26:50.715] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:26:50.719] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:26:50.738] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:26:50.739] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:26:51.276] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:26:51.277] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:26:51.278] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:26:51.280] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:26:51.281] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:26:51.283] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:26:51.284] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:26:51.307] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:26:51.309] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:26:51.636] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:26:51.638] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:26:51.640] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:26:51.641] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:26:51.643] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:26:51.652] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:26:51.755] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:26:51.757] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:26:51.764] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:26:52.481] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:26:52.483] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:26:52.485] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:26:52.487] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:26:52.488] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:26:52.495] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:26:52.688] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:26:52.690] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:26:52.696] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:27:55.111] Server  LOG     ✓ Compiled in 104ms
+[00:27:55.953] Browser ERROR   ./components/Header.jsx:242:26
+Parsing ecmascript source code failed
+  240 | } 
+  241 |                 className="block font-medium hover:text-blue-600 transition-colors py-2"
+> 242 |                 onClick={() => setMobileMenuOpen(false)}
+      |                          ^
+  243 |               >
+  244 |                 {link.label}
+  245 |               </Link>
+
+Unexpected token `(`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:31:03.005] Server  LOG     ✓ Compiled in 103ms
+[00:31:29.798] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:32.258] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:32.729] Browser WARN    Image with src "/assets/images/Banner.png" has "fill" and a height value of 0. This is likely because the parent element of the image has not been styled to have a set height.
+[00:31:43.216] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:31:44.434] Browser WARN    Image with src "/assets/icons/flags/AM.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:32:35.105] Server  LOG     ✓ Compiled in 87ms
+[00:32:38.555] Server  LOG     ✓ Compiled in 31ms
+[00:32:44.745] Server  LOG     ✓ Compiled in 30ms
+[00:32:57.461] Server  LOG     ✓ Compiled in 33ms
+[00:33:00.637] Server  LOG     ✓ Compiled in 37ms
+[00:33:05.130] Server  LOG     ✓ Compiled in 37ms
+[00:33:05.962] Browser ERROR   ./components/Header.jsx:28:83
+Parsing ecmascript source code failed
+  26 |         <div className="flex items-center shrink-0">
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+> 28 |             <span className="text-2xl sm:text-3xl font-bold text-white"><image></></span>
+     |                                                                                   ^
+  29 |           </div>
+  30 |           <span className="ml-2 text-lg sm:text-xl font-bold text-blue-600">BRAND</span>
+  31 |         </div>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:33:05.962] Browser ERROR   ./components/Header.jsx:28:84
+Parsing ecmascript source code failed
+  26 |         <div className="flex items-center shrink-0">
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+> 28 |             <span className="text-2xl sm:text-3xl font-bold text-white"><image></></span>
+     |                                                                                    ^^^^^^
+  29 |           </div>
+  30 |           <span className="ml-2 text-lg sm:text-xl font-bold text-blue-600">BRAND</span>
+  31 |         </div>
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:33:09.053] Server  LOG     ✓ Compiled in 33ms
+[00:33:09.958] Browser ERROR   ./components/Header.jsx:28:88
+Parsing ecmascript source code failed
+  26 |         <div className="flex items-center shrink-0">
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+> 28 |             <span className="text-2xl sm:text-3xl font-bold text-white"><image>/</span>
+     |                                                                                        ^
+> 29 |           </div>
+     | ^^^^^^^^^^^
+  30 |           <span className="ml-2 text-lg sm:text-xl font-bold text-blue-600">BRAND</span>
+  31 |         </div>
+  32 |
+
+Expected '</', got 'jsx text (
+          )'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:33:13.951] Browser ERROR   ./components/Header.jsx:29:30
+Parsing ecmascript source code failed
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+  28 |             <span className="text-2xl sm:text-3xl font-bold text-white">
+> 29 |               <image>/</span>
+     |                              ^
+> 30 |           </div>
+     | ^^^^^^^^^^^
+  31 |           <span className="ml-2 text-lg sm:text-xl font-bold text-blue-600">BRAND</span>
+  32 |         </div>
+  33 |
+
+Expected '</', got 'jsx text (
+          )'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:33:18.957] Browser ERROR   ./components/Header.jsx:31:22
+Parsing ecmascript source code failed
+  29 |               <image>
+  30 |                 
+> 31 |               </span>
+     |                      ^
+> 32 |           </div>
+     | ^^^^^^^^^^^
+  33 |           <span className="ml-2 text-lg sm:text-xl font-bold text-blue-600">BRAND</span>
+  34 |         </div>
+  35 |
+
+Expected '</', got 'jsx text (
+          )'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:33:21.960] Browser ERROR   The tag <%s> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter. image
+[00:33:22.797] Server  LOG     ✓ Compiled in 31ms
+[00:33:23.959] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:33:23.959] Browser ERROR   Image is missing required "src" property: <img>
+[00:33:23.959] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:33:23.959] Browser ERROR   Image is missing required "src" property: <img>
+[00:33:23.959] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:33:27.310] Server  LOG     ✓ Compiled in 34ms
+[00:33:27.951] Browser ERROR   ./components/Header.jsx:29:29
+Parsing ecmascript source code failed
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+  28 |             <span className="text-2xl sm:text-3xl font-bold text-white">
+> 29 |               <Image src={}/>
+     |                             ^
+  30 |
+  31 |               </span>
+  32 |           </div>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:33:31.518] Server  LOG     ✓ Compiled in 28ms
+[00:33:31.958] Browser ERROR   ./components/Header.jsx:29:27
+Parsing ecmascript source code failed
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+  28 |             <span className="text-2xl sm:text-3xl font-bold text-white">
+> 29 |               <Image src={.}/>
+     |                           ^
+  30 |
+  31 |               </span>
+  32 |           </div>
+
+Expected '</', got '.'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:33:37.958] Browser ERROR   ./components/Header.jsx:29:27
+Parsing ecmascript source code failed
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+  28 |             <span className="text-2xl sm:text-3xl font-bold text-white">
+> 29 |               <Image src={./public}/>
+     |                           ^
+  30 |
+  31 |               </span>
+  32 |           </div>
+
+Expected '</', got '.'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:33:38.956] Browser ERROR   ./components/Header.jsx:29:27
+Parsing ecmascript source code failed
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+  28 |             <span className="text-2xl sm:text-3xl font-bold text-white">
+> 29 |               <Image src={./public/}/>
+     |                           ^
+  30 |
+  31 |               </span>
+  32 |           </div>
+
+Expected '</', got '.'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:33:50.952] Browser ERROR   ./components/Header.jsx:29:27
+Parsing ecmascript source code failed
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+  28 |             <span className="text-2xl sm:text-3xl font-bold text-white">
+> 29 |               <Image src={./public/asset}/>
+     |                           ^
+  30 |
+  31 |               </span>
+  32 |           </div>
+
+Expected '</', got '.'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:33:52.956] Browser ERROR   ./components/Header.jsx:29:27
+Parsing ecmascript source code failed
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+  28 |             <span className="text-2xl sm:text-3xl font-bold text-white">
+> 29 |               <Image src={./public/assets}/>
+     |                           ^
+  30 |
+  31 |               </span>
+  32 |           </div>
+
+Expected '</', got '.'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:33:53.950] Browser ERROR   ./components/Header.jsx:29:27
+Parsing ecmascript source code failed
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+  28 |             <span className="text-2xl sm:text-3xl font-bold text-white">
+> 29 |               <Image src={./public/assets/}/>
+     |                           ^
+  30 |
+  31 |               </span>
+  32 |           </div>
+
+Expected '</', got '.'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:34:09.950] Browser ERROR   ./components/Header.jsx:29:27
+Parsing ecmascript source code failed
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+  28 |             <span className="text-2xl sm:text-3xl font-bold text-white">
+> 29 |               <Image src={./public/assets/images/}/>
+     |                           ^
+  30 |
+  31 |               </span>
+  32 |           </div>
+
+Expected '</', got '.'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:34:13.953] Browser ERROR   ./components/Header.jsx:29:27
+Parsing ecmascript source code failed
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+  28 |             <span className="text-2xl sm:text-3xl font-bold text-white">
+> 29 |               <Image src={./public/assets/images/logo-symbol}/>
+     |                           ^
+  30 |
+  31 |               </span>
+  32 |           </div>
+
+Expected '</', got '.'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:34:16.954] Browser ERROR   ./components/Header.jsx:29:27
+Parsing ecmascript source code failed
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+  28 |             <span className="text-2xl sm:text-3xl font-bold text-white">
+> 29 |               <Image src={./public/assets/images/logo-Symbol.png}/>
+     |                           ^
+  30 |
+  31 |               </span>
+  32 |           </div>
+
+Expected '</', got '.'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:34:21.956] Browser ERROR   ./components/Header.jsx:29:27
+Parsing ecmascript source code failed
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+  28 |             <span className="text-2xl sm:text-3xl font-bold text-white">
+> 29 |               <Image src={./public/assets/images/logo-Symbol.png"/>
+     |                           ^
+  30 |
+  31 |               </span>
+  32 |           </div>
+
+Expected '</', got '.'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:34:23.957] Browser ERROR   ./components/Header.jsx:29:28
+Parsing ecmascript source code failed
+  27 |           <div className="bg-blue-600 p-1.5 rounded-lg">
+  28 |             <span className="text-2xl sm:text-3xl font-bold text-white">
+> 29 |               <Image src=""./public/assets/images/logo-Symbol.png"/>
+     |                            ^
+  30 |
+  31 |               </span>
+  32 |           </div>
+
+Expected '</', got '.'
+
+Import trace:
+  Server Component:
+    ./components/Header.jsx
+    ./app/page.tsx
+[00:34:26.953] Browser ERROR   uncaughtError: Error: Image with src "./public/assets/images/logo-Symbol.png" is missing required "width" property.
+[00:34:34.421] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:34:34.424] Server  LOG     ✓ Compiled in 29ms
+[00:34:34.640] Server  ERROR   ⨯ Error: Image with src "./public/assets/images/logo-Symbol.png" is missing required "width" property.
+[00:34:35.197] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:36.012] Browser ERROR   uncaughtError: Error: Image with src "./public/assets/images/logo-Symbol.png" is missing required "width" property.
+[00:34:37.051] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:34:37.366] Server  ERROR   ⨯ Error: Image with src "./public/assets/images/logo-Symbol.png" is missing required "width" property.
+[00:34:37.383] Server  LOG     ✓ Compiled in 36ms
+[00:34:37.966] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:38.329] Browser ERROR   uncaughtError: Error: Image with src "./public/assets/images/logo-Symbol.png" is missing required "width" property.
+[00:34:51.712] Server  ERROR   ⨯ Error: Image with src "./public/assets/images/logo-Symbol.png" is missing required "width" property.
+[00:34:51.955] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:52.088] Browser ERROR   uncaughtError: Error: Image with src "./public/assets/images/logo-Symbol.png" is missing required "width" property.
+[00:34:57.782] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:34:57.801] Server  LOG     ✓ Compiled in 49ms
+[00:34:57.997] Server  ERROR   ⨯ Error: Image with src "../public/assets/images/logo-Symbol.png" is missing required "width" property.
+[00:34:58.227] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:58.961] Browser ERROR   uncaughtError: Error: Image with src "../public/assets/images/logo-Symbol.png" is missing required "width" property.
+[00:35:22.761] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:35:22.994] Server  LOG     ✓ Compiled in 38ms
+[00:35:23.283] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:24.138] Browser WARN    Image with src "/assets/images/Banner.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:35:51.871] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:35:51.882] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:35:51.883] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:35:52.094] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:35:52.096] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:35:52.106] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:35:52.233] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:35:52.247] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:35:52.250] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:35:52.320] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:35:52.728] Browser WARN    Image with src "/assets/icons/flags/UAE.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:52.728] Browser WARN    Image with src "/assets/icons/flags/AU.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:52.728] Browser WARN    Image with src "/assets/icons/flags/AM.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:52.728] Browser WARN    Image with src "/assets/icons/flags/R.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:52.728] Browser WARN    Image with src "/assets/icons/flags/ITALY.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:52.728] Browser WARN    Image with src "/assets/icons/flags/Br.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:52.728] Browser WARN    Image with src "/assets/icons/flags/FR.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:52.728] Browser WARN    Image with src "/assets/icons/flags/china.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:52.728] Browser WARN    Image with src "/assets/icons/flags/ENG.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:55.948] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:35:55.971] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:35:55.972] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:35:55.974] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:35:55.987] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:35:55.994] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:35:56.172] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:35:56.179] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:35:56.181] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:35:56.365] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:35:56.390] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:35:56.403] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:35:56.487] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:35:56.644] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:35:56.672] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:35:56.683] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:35:56.851] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:35:56.970] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:36:46.731] Server  LOG     ✓ Compiled in 73ms
+[00:36:52.026] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:52.042] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:36:52.052] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:36:52.070] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:36:52.071] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:36:52.077] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:36:52.254] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:36:52.268] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:36:52.511] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:36:52.520] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:37:29.548] Server  LOG     ✓ Compiled in 61ms
+[00:37:30.960] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:37:30.960] Browser ERROR   uncaughtError: Error: Failed to parse src "./images/clothes/cloth1.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:37:30.960] Browser ERROR   uncaughtError: Error: Failed to parse src "./images/clothes/cloth1.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:37:30.960] Browser ERROR   uncaughtError: Error: Failed to parse src "./images/clothes/cloth1.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:37:30.960] Browser ERROR   uncaughtError: Error: Failed to parse src "./images/clothes/cloth1.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:37:30.960] Browser ERROR   uncaughtError: Error: Failed to parse src "./images/clothes/cloth1.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:37:30.960] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:37:30.960] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:37:30.960] Browser ERROR   uncaughtError: Error: Failed to parse src "./images/clothes/cloth1.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:37:48.927] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:49.344] Browser WARN    Image with src "/assets/images/Banner.png" has "fill" and a height value of 0. This is likely because the parent element of the image has not been styled to have a set height.
+[00:37:53.465] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:37:53.465] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:37:53.465] Browser ERROR   uncaughtError: Error: Failed to parse src "../images/clothes/cloth1.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:37:58.828] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:59.008] Browser WARN    Image with src "/assets/images/Banner.png" has "fill" and a height value of 0. This is likely because the parent element of the image has not been styled to have a set height.
+[00:39:28.958] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:39:28.958] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:39:28.958] Browser ERROR   uncaughtError: Error: Failed to parse src "../images/clothes/cloth1.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:39:30.543] Server  ERROR   TypeError: Invalid URL
+[00:39:30.579] Server  ERROR   ⨯ Error: Failed to parse src "./images/clothes/cloth1.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:39:30.924] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:31.956] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:39:31.957] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:39:31.957] Browser ERROR   uncaughtError: Error: Failed to parse src "./images/clothes/cloth1.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:39:33.353] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:34.710] Browser WARN    Image with src "/assets/images/Banner.png" has "fill" and a height value of 0. This is likely because the parent element of the image has not been styled to have a set height.
+[00:39:38.795] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:39:38.820] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:39:38.821] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:39:38.822] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:39:38.823] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:39:38.825] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:39:39.123] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:39:39.124] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:39:39.126] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:39:39.132] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:39:39.736] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth1.png" "received" null
+[00:39:39.738] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth3.jpg" "received" null
+[00:39:39.739] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth7.png" "received" null
+[00:39:39.741] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth6.png" "received" null
+[00:39:39.754] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth5.png" "received" null
+[00:39:39.756] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/white headphone.png" "received" null
+[00:39:39.971] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/clothes/cloth4.png" "received" null
+[00:39:39.973] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/pot.png" "received" null
+[00:39:39.980] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/interior/black kettle.png" "received" null
+[00:39:40.539] Browser WARN    Image with src "/assets/icons/flags/UAE.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:39:40.539] Browser WARN    Image with src "/assets/icons/flags/AU.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:39:40.539] Browser WARN    Image with src "/assets/icons/flags/AM.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:39:40.539] Browser WARN    Image with src "/assets/icons/flags/R.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:39:40.539] Browser WARN    Image with src "/assets/icons/flags/ITALY.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:39:40.539] Browser WARN    Image with src "/assets/icons/flags/Br.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:39:40.539] Browser WARN    Image with src "/assets/icons/flags/FR.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:39:40.539] Browser WARN    Image with src "/assets/icons/flags/china.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:39:40.539] Browser WARN    Image with src "/assets/icons/flags/ENG.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:43:50.658] Server  LOG     ✓ Compiled in 33ms
+[00:43:56.475] Server  LOG     ✓ Compiled in 30ms
+[00:44:04.279] Server  LOG     ✓ Compiled in 28ms
+[00:44:11.395] Server  LOG     ✓ Compiled in 30ms
+[00:44:12.524] Server  LOG     ✓ Compiled in 27ms
+[00:44:16.727] Server  LOG     ✓ Compiled in 67ms
+[00:44:31.484] Server  LOG     ✓ Compiled in 29ms
+[00:44:32.566] Server  LOG     ✓ Compiled in 32ms
+[00:44:34.234] Server  LOG     ✓ Compiled in 28ms
+[00:44:36.778] Server  LOG     ✓ Compiled in 26ms
+[00:44:43.717] Server  LOG     ✓ Compiled in 30ms
+[00:44:48.348] Server  LOG     ✓ Compiled in 43ms
+[00:44:53.189] Server  LOG     ✓ Compiled in 34ms
+[00:45:01.059] Server  LOG     ✓ Compiled in 31ms
+[00:45:56.243] Server  LOG     ✓ Compiled in 80ms
+[00:46:27.530] Server  LOG     ✓ Compiled in 32ms
+[00:46:32.743] Server  LOG     ✓ Compiled in 36ms
+[00:49:19.656] Server  LOG     ✓ Compiled in 119ms
+[00:54:17.243] Server  LOG     ✓ Compiled in 306ms
+[00:57:18.772] Browser WARN    Image with src "/assets/images/home_banner.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:15.007] Server  LOG     ✓ Compiled in 229ms
+[00:58:16.390] Browser WARN    Image with src "/assets/images/electric_banner.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:59:19.086] Server  LOG     ✓ Compiled in 229ms
+[01:00:19.854] Browser WARN    Image with src "/assets/icons/flags/UAE.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:00:19.854] Browser WARN    Image with src "/assets/icons/flags/AU.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:00:20.147] Browser WARN    Image with src "/assets/images/services/3.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:00:20.147] Browser WARN    Image with src "/assets/images/services/1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:00:20.147] Browser WARN    Image with src "/assets/images/services/4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:00:20.147] Browser WARN    Image with src "/assets/icons/flags/AM.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:00:20.147] Browser WARN    Image with src "/assets/icons/flags/R.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:00:20.147] Browser WARN    Image with src "/assets/icons/flags/ITALY.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:00:20.147] Browser WARN    Image with src "/assets/icons/flags/Br.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:00:20.147] Browser WARN    Image with src "/assets/icons/flags/china.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:00:20.147] Browser WARN    Image with src "/assets/icons/flags/FR.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:00:20.147] Browser WARN    Image with src "/assets/icons/flags/ENG.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:00:20.548] Browser WARN    Image with src "/assets/images/services/2.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:03:43.386] Server  LOG     ✓ Compiled in 369ms
+[01:06:04.228] Server  LOG     ✓ Compiled in 481ms
+[01:06:09.935] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:10.581] Browser WARN    Image with src "/assets/images/home_banner.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/images/electric_banner.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/images/services/1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/images/services/2.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/images/services/3.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/images/services/4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/icons/flags/UAE.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/icons/flags/AU.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/icons/flags/AM.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/icons/flags/R.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/icons/flags/ITALY.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/icons/flags/Br.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/icons/flags/FR.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/icons/flags/china.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:10.581] Browser WARN    Image with src "/assets/icons/flags/ENG.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:06:58.286] Server  LOG     ✓ Compiled in 94ms
+[01:07:24.610] Server  LOG     ✓ Compiled in 91ms
+[01:07:27.184] Server  LOG     ✓ Compiled in 108ms
+[01:08:11.817] Server  LOG     ✓ Compiled in 159ms
+[01:08:20.183] Server  LOG     ✓ Compiled in 250ms
+[01:08:26.304] Server  LOG     ✓ Compiled in 253ms
+[01:08:40.122] Server  LOG     ✓ Compiled in 142ms
+[01:08:43.586] Server  LOG     ✓ Compiled in 110ms
+[01:08:43.964] Browser ERROR   uncaughtError: ReferenceError: Ima is not defined
+[01:08:45.370] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:08:45.392] Server  LOG     ✓ Compiled in 78ms
+[01:08:47.158] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:09:05.780] Server  LOG     ✓ Compiled in 188ms
+[01:09:06.489] Browser WARN    Image with src "/assets/images/home_banner.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:06.489] Browser WARN    Image with src "/assets/images/electric_banner.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:06.648] Browser WARN    Image with src "/assets/images/Banner.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:09:07.791] Browser WARN    Image with src "/assets/images/services/1.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:07.791] Browser WARN    Image with src "/assets/images/services/2.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:07.791] Browser WARN    Image with src "/assets/images/services/3.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:07.791] Browser WARN    Image with src "/assets/images/services/4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:07.791] Browser WARN    Image with src "/assets/icons/flags/UAE.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:07.791] Browser WARN    Image with src "/assets/icons/flags/AU.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:07.791] Browser WARN    Image with src "/assets/icons/flags/AM.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:07.791] Browser WARN    Image with src "/assets/icons/flags/R.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:07.791] Browser WARN    Image with src "/assets/icons/flags/ITALY.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:07.791] Browser WARN    Image with src "/assets/icons/flags/Br.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:07.791] Browser WARN    Image with src "/assets/icons/flags/ENG.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:07.791] Browser WARN    Image with src "/assets/icons/flags/FR.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:07.791] Browser WARN    Image with src "/assets/icons/flags/china.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:16.547] Server  LOG     ✓ Compiled in 95ms
+[01:11:05.669] Server  LOG     ✓ Compiled in 280ms
+[01:11:11.242] Server  LOG     ✓ Compiled in 198ms
+[01:11:39.921] Server  LOG     ✓ Compiled in 138ms
+[01:12:24.874] Server  LOG     ✓ Compiled in 675ms
+[01:12:24.896] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./components/HomeHero.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:12:27.095] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:27.808] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+      <RedirectBoundary>
+        <RedirectErrorBoundary router={{...}}>
+          <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{rsc:<Fragment>, ...}} segmentPath={[...]} ...>
+            <SegmentViewNode type="page" pagePath="page.tsx">
+              <SegmentTrieNode>
+              <Home>
+                <Header>
+                <FooterSection>
+                <Home>
+                  <DealsAndOffers>
+                    <div className="w-full max...">
+                      <div className="border bor...">
+                        <div className="flex flex-...">
+                          <div className="w-full sm:...">
+                            <div>
+                            <div className="flex sm:gr...">
+                              <div>
+                              <div>
+                              <div>
+                              <div className="bg-[#46464...">
+                                <div className="text-lg lg:text-xl font-bold text-white">
++                                 56
+-                                 55
+                                ...
+                          ...
+                ...
+            ...
+          ...
+
+[01:12:27.930] Browser WARN    Image with src "/assets/icons/flags/AM.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:13:19.342] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./components/HomeHero.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:13:19.362] Server  LOG     ✓ Compiled in 160ms
+[01:13:20.446] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:14:15.219] Server  LOG     ✓ Compiled in 230ms
+[01:14:17.054] Browser WARN    Image with src "/assets/icons/flags/AM.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:14:25.603] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:14:30.468] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:14:30.928] Browser WARN    Image with src "/assets/icons/flags/AM.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes

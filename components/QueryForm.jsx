@@ -14,42 +14,53 @@ export default function SendInquiryForm() {
   };
 
   return (
-    <div className="relative max-w-[1440px] mx-auto px-20 py-0 bg-gray-100">
+    // Max-width [1536px] matches your other sections for a unified look
+    <div className="w-full max-w-[1536px] mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10 bg-gray-100">
       <div 
-        className="relative rounded-lg "
-        style={{ height: '420px' }}
+        className="relative rounded-lg overflow-hidden shadow-lg"
+        style={{ minHeight: '420px' }}
       >
+        {/* Background Gradient with an image overlay for a premium tech feel */}
         <div 
-          className="absolute inset-0 bg-gradient-to-r from-blue-600 to-green-200 rounded-lg"
+          className="absolute inset-0 bg-gradient-to-r from-blue-600 to-[#2c7be5] rounded-lg"
         />
+        <div className="absolute inset-0 opacity-20 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] pointer-events-none" />
 
-        <div className="relative h-full grid md:grid-cols-2 gap-8 px-10 items-center">
-          <div className="text-white space-y-5">
-            <h2 className="text-4xl md:text-4xl font-bold leading-tight">
+        {/* Grid logic: 
+          - Mobile: Stacked (1 col)
+          - Tablet: 2 cols (50/50)
+          - Ultra-wide: 7/5 split (lg:grid-cols-12) to keep the form compact
+        */}
+        <div className="relative min-h-[420px] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-8 lg:gap-16 px-6 sm:px-10 lg:px-16 py-10 items-center">
+          
+          {/* Left Content - Takes 7/12 on large screens */}
+          <div className="lg:col-span-7 text-white space-y-6">
+            <h2 className="text-3xl sm:text-4xl xl:text-5xl font-extrabold leading-[1.1]">
               An easy way to send
               <br />
               requests to all suppliers
             </h2>
 
-            <p className="text-blue-50 text-base md:text-lg max-w-lg leading-relaxed">
+            <p className="text-blue-50 text-base sm:text-lg xl:text-xl max-w-lg leading-relaxed opacity-90">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit,
               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </p>
           </div>
 
-          <div className="bg-white rounded-xl shadow-xl p-5 max-h-[350px] max-w-[490px] ">
-            <h3 className="text-xl font-bold text-gray-800 mb-5">
+          {/* Right Form - Takes 5/12 on large screens */}
+          <div className="lg:col-span-5 bg-white rounded-xl shadow-2xl p-6 sm:p-8 w-full max-w-md lg:ml-auto">
+            <h3 className="text-xl sm:text-2xl font-bold text-gray-800 mb-6">
               Send quote to suppliers
             </h3>
 
-            <form onSubmit={handleSubmit} className="space-y-4 text-sm">
+            <form onSubmit={handleSubmit} className="space-y-4">
               <div>
                 <input
                   type="text"
                   value={item}
                   onChange={(e) => setItem(e.target.value)}
                   placeholder="What item you need?"
-                  className="w-full px-4 py-2.5 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-black"
+                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-black transition-all"
                   required
                 />
               </div>
@@ -60,39 +71,35 @@ export default function SendInquiryForm() {
                   onChange={(e) => setDetails(e.target.value)}
                   placeholder="Type more details..."
                   rows={3}
-                  className="w-full px-4 py-2.5 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none text-black"
+                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none text-black transition-all"
                 />
               </div>
 
               <div className="grid grid-cols-2 gap-4">
-                <div>
-                  <input
-                    type="number"
-                    value={quantity}
-                    onChange={(e) => setQuantity(e.target.value)}
-                    min="1"
-                    className="w-full px-4 py-2.5 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-black"
-                    required
-                    placeholder="Quantity"
-                  />
-                </div>
+                <input
+                  type="number"
+                  value={quantity}
+                  onChange={(e) => setQuantity(e.target.value)}
+                  min="1"
+                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-black"
+                  required
+                  placeholder="Quantity"
+                />
 
-                <div>
-                  <select
-                    defaultValue="Pcs"
-                    className="w-30 text-gray-500 px-4 py-2.5 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white text-black"
-                  >
-                    <option value="Pcs">Pcs</option>
-                    <option value="Kg">Kg</option>
-                    <option value="Set">Set</option>
-                    <option value="Box">Box</option>
-                  </select>
-                </div>
+                <select
+                  defaultValue="Pcs"
+                  className="w-full text-gray-700 px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white"
+                >
+                  <option value="Pcs">Pcs</option>
+                  <option value="Kg">Kg</option>
+                  <option value="Set">Set</option>
+                  <option value="Box">Box</option>
+                </select>
               </div>
 
               <button
                 type="submit"
-                className="w-1/4 bg-blue-600 text-white py-3 rounded-lg font-medium hover:bg-blue-700 transition-colors mt-2"
+                className="w-full sm:w-auto bg-blue-600 text-white py-3 px-8 rounded-lg font-bold hover:bg-blue-700 hover:shadow-lg active:scale-[0.98] transition-all mt-4"
               >
                 Send inquiry
               </button>
